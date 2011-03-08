@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>renderWith(${1:data="$2"}${3:${4:, controller="$5"}${6:, action="$7"}${8:, template="$9"}${10:, layout="$11"}${12:, cache="$13"}${14:, returnAs="$15"}${16:, hideDebugInformation="$17"}})$0</string>
+	<key>name</key>
+	<string>renderWth</string>
+	<key>scope</key>
+	<string>text.html.cfm</string>
+	<key>tabTrigger</key>
+	<string>renderwith</string>
+	<key>uuid</key>
+	<string>9Z92ED11-9277-3FA8-4D425D938B31D3ZC</string>
+</dict>
+</plist>
